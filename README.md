@@ -1,4 +1,4 @@
--# Library Management System
+# Library Management System
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
