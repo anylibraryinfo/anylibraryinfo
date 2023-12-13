@@ -27,18 +27,15 @@ This is a simple Library Management System implemented in Flask. It provides fun
    git clone https://github.com/your-username/library-management-system.git
 Navigate to the project directory:
 
-bash
-Copy code
+
 cd library-management-system
 Install dependencies:
 
-bash
-Copy code
+
 pip install -r requirements.txt
 Run the application:
 
-bash
-Copy code
+
 python app.py
 Open your web browser and go to http://localhost:5000.
 
